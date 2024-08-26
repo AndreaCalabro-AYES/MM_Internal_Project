@@ -10,7 +10,7 @@ We have multiple applications, each one running in its own container and indepen
 We then implemented the communication among these different applications, to allow them to interact and exchange necessary information.
 
 This is a quick infographics to explain
-![MM Project Infographics]()
+![MM Project Infographics](https://github.com/AndreaCalabro-AYES/MM_Internal_Project/blob/main/MM%20Infographics.png)
 
 As explained: the founding block of the whole project are docker containers, so please
 **Install Docker Desktop for Windows**
