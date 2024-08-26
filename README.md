@@ -4,15 +4,13 @@
 Welcome to the **MM_Internal_Project**, the central repository that introduces and links to several interconnected projects under the [AndreaCalabro-AYES GitHub organization](https://github.com/AndreaCalabro-AYES). This repository serves as an entry point, providing an overview of each project and how they integrate into a cohesive ecosystem.
 
 ## Basic Idea
-We have multiple applications, each one running in its own container and independent from the others. 
+We have multiple applications, each one running in its own container and independent from the others.
+> [!IMPORTANT]
+> In the future, we will officially baseline our images, and containers, and these will be downloadable from the hub.  
 We then implemented the communication among these different applications, to allow them to interact and exchange necessary information.
 
 This is a quick infographics to explain
 ![MM Project Infographics](https://github.com/AndreaCalabro-AYES/MM_Internal_Project/blob/main/MM%20Overall%20Pic.png)
-
-> [!IMPORTANT]
-> In the future, we will officially baseline our images, and containers, and these will be downloadable from the hub. 
-
 
 As explained: the founding block of the whole project are docker containers, so please
 **Install Docker Desktop for Windows**
