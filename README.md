@@ -3,6 +3,10 @@
 ## Overview
 Welcome to the **MM_Internal_Project**, the central repository that introduces and links to several interconnected projects under the [AndreaCalabro-AYES GitHub organization](https://github.com/AndreaCalabro-AYES). This repository serves as an entry point, providing an overview of each project and how they integrate into a cohesive ecosystem.
 
+The founding block of the whole project are docker containers, so please
+**Install Docker Desktop for Windows**
+   - Download and install from the Docker [website](https://docs.docker.com/desktop/install/windows-install/).
+
 ## Related Projects
 
 ### [Face Recognition](https://github.com/AndreaCalabro-AYES/face_recognition)
