@@ -7,6 +7,9 @@ Welcome to the **MM_Internal_Project**, the central repository that introduces a
 We have multiple applications, each one running in its own container and independent from the others. 
 We then implemented the communication among these different applications, to allow them to interact and exchange necessary information.
 
+This is a quick infographics to explain
+![MM Project Infographics](https://github.com/AndreaCalabro-AYES/MM_Internal_Project/blob/main/MM%20Overall%20Pic.png)
+
 > [!IMPORTANT]
 > In the future, we will officially baseline our images, and containers, and these will be downloadable from the hub. 
 
